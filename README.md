@@ -10,5 +10,5 @@
 3. Run 'npm install' to install your necessary dependencies
 
 ## Running the application
-1. After installing dependencies, run npm start in your terminal
+1. After installing dependencies, run "npm start" to client side code and "node server.js" to run server side code in your terminal
 2. The application will start 
